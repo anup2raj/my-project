@@ -1,1 +1,1 @@
-Learning more of Git Basics  (Added via GitLab)
+Learning lot of Git Basics  (Added via Local Repo)
